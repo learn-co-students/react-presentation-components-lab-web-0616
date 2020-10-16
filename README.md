@@ -134,4 +134,3 @@ that scales and is easy to debug.
 
 - Dan Abramov – ["Presentational and Container Components"](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 - [Stateless Functions](https://facebook.github.io/react/docs/reusable-components.html#stateless-functions)
-
